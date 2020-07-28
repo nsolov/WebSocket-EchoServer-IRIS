@@ -4,11 +4,11 @@
     <Module>
       <Name>websocket-echoserver</Name>
       <Version>1.0.3</Version>
-      <Description>WebSocket Echo Server for IRIS as known from Cache / Ensemble</Description>
+      <Description>WebSocket Echo Server for IRIS as known from Caché / Ensemble</Description>
       <Keywords>CSP, WebSocket, COS</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
        <Resource Name="WSS.PKG"/>
     </Module>
   </Document>
-</Export> 
+</Export>
